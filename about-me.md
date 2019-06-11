@@ -1,9 +1,11 @@
 # About Me
 
-![Picture of me]()
+![Picture of me](https://www.usds.gov/images/hank-knaack.jpg)
 
-Hi, I'm Charlene Bernard. I'm a ________ at *__________*.
+Hi, I'm Hank Knaack. I'm a designer at *USDS at DHS*.
 
 - **Past Companies and Organizations:**
+East Side Strategy, Iteration Group, Hack for LA
 - **Hobbies:**
-- **Favorite Website:** []()
+food stuff, exercisio, indie movies
+- **Favorite Website:** [What the f*** should make for dinner?](http://www.whatthefuckshouldimakefordinner.com/)
